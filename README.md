@@ -1,3 +1,4 @@
 # westernregional
 #### The Western Regional Network is a multi-state partnership to provide advanced, robust high-speed networking for research, education, and related uses. WRN is a collaboration of the Pacific Northwest Gigapop (PNWGP) in Washington, the Front Range GigaPoP (FRGP) in Colorado and Wyoming, the University of New Mexico on behalf of the State of New Mexico, the Corporation for Education Network Initiatives in California (CENIC), and the University of Hawaii. WRN serves the following states: Alaska, California, Colorado, Hawaii, Idaho, Montana, New Mexico, Oregon, Washington, Wyoming, with a fiber/terminus/pop at StarLight in Chicago.
 [Press Release](https://westernregional.net/WRN_Press_Release_2_19_10.pdf)
+##### WTC documentation can be found on the [WRN Wiki](https://wiki.ucar.edu/display/wrn/Home)
